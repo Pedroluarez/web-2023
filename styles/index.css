@@ -1,0 +1,17 @@
+body {
+  margin: 5%;
+}
+button {
+  border-radius: 10%;
+  border-style: groove;
+  cursor: pointer;
+  border-width: 0;
+}
+button:hover {
+  background-color: rgb(202, 200, 200);
+  border-width: 1px;
+}
+.texttext {
+  font-size: 18px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
